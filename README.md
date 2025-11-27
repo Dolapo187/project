@@ -21,11 +21,17 @@ password : admin
 STEP 4: Click Log in.
 ![image](https://github.com/user-attachments/assets/43f311bd-22d7-461f-b36b-03b8ad725eb9)
 STEP 5:
-Then turn on Burp Suiteand it will intercept the request.
+Then turn on Burp Suite and it will intercept the request.
 Them examine the login credentials
 ![image](https://github.com/user-attachments/assets/ad24f6a0-0f14-4247-9d3f-1faeccb680fb)
-Send the Request to Burp Intruder
+STEP 6:
+Send the Request to Burp Intruder and burp repeater 
+
 In Burp:
 	•	Right-click → Send to Intruder
   Then go to intruder 
   ![image](https://github.com/user-attachments/assets/18cb9ec7-2a90-40f2-b550-bd6db23cc015)
+  STEP 7:
+  Add payloads to the front and back of the email and password 
+  ![image](https://github.com/user-attachments/assets/2c4dcab6-6043-4411-bacc-c3f7c335052c)
+
