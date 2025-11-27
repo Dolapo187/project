@@ -34,4 +34,9 @@ In Burp:
   STEP 7:
   Add payloads to the front and back of the email and password 
   ![image](https://github.com/user-attachments/assets/2c4dcab6-6043-4411-bacc-c3f7c335052c)
-
+STEP 8: 
+Them go to goggle and search password list github for brute force 
+![image](https://github.com/user-attachments/assets/06d78d7a-6956-4c9a-93ac-05cfe44e0275)
+STEP 9: 
+Copy the payloads on this webiste and paste it in payload configuration the click in start the attack 
+STEP 10:After analyzing the data i found out that brute force was not going to word so i decided i was going to use SQL injection.
