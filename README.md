@@ -53,4 +53,20 @@ STEP 12:
 Go to proxy and make sure your intercept
 is turn off
 ![image](https://github.com/user-attachments/assets/f7cea4ec-fac8-4572-9bb0-5005c4932251)
+STEP 13: 
+Click login and it would take to to the home page it means you have successfully logged in 
+![image](https://github.com/user-attachments/assets/cb5cf97b-8d52-486c-8ee7-6d52d3d4627b)
+STEP 14:
+Go to your proxy and click on HTTP history and look for the login 
+Note:The login must have POST 
+![image](https://github.com/user-attachments/assets/aaf38253-2c12-41b6-86ad-62fdcf3bea2a)
+STEP 15:
+Then send it to the intruder amd repeater 
+![image](https://github.com/user-attachments/assets/2dd64c4e-2d60-4b30-895d-9b3a45d22598)
+STEP 16:
+Then we find the admin email on the repeater's response 
+![image](https://github.com/user-attachments/assets/63c73c26-f00b-4f02-afff-9c330d3fad75)
+STEP 17:
+Go to the intruder and you would add the email in the email place and add payload to the password 
+![image](https://github.com/user-attachments/assets/8877b33f-7492-485d-a24d-9f9b9dd2c741)
 
