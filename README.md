@@ -43,3 +43,14 @@ Copy the payloads on this website and paste it in payload configuration the clic
 STEP 10:
 After analyzing the data i found out that brute force was not going to word so i decided i was going to use SQL injection.
 
+STEP 11: 
+Go to the login page of OWASP juice shop 
+and put 
+E-mail: admin' or 1=1--
+Password: admin' or 1=1--
+![image](https://github.com/user-attachments/assets/b2a8a7bb-b0cf-4c79-ba9b-41ead8763da9)
+STEP 12:
+Go to proxy and make sure your intercept
+is turn off
+![image](https://github.com/user-attachments/assets/f7cea4ec-fac8-4572-9bb0-5005c4932251)
+
