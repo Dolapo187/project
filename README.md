@@ -40,4 +40,6 @@ Them go to goggle and search password list github for brute force
 STEP 9: 
 Copy the payloads on this website and paste it in payload configuration the click in start the attack 
 
-STEP 10:After analyzing the data i found out that brute force was not going to word so i decided i was going to use SQL injection.
+STEP 10:
+After analyzing the data i found out that brute force was not going to word so i decided i was going to use SQL injection.
+
