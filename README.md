@@ -1,4 +1,4 @@
-# project
+![image](https://github.com/user-attachments/assets/dda80bd4-1060-4a78-99ed-8fe0f0495510)# project
 Using Burpsuite for SQL injection on OWASP JUICE SHOP WEBSITE 
 
 STEP 1:TURN ON YOUR KALI TERMINAL AND OPEN BURP SUITE
@@ -69,4 +69,12 @@ Then we find the admin email on the repeater's response
 STEP 17:
 Go to the intruder and you would add the email in the email place and add payload to the password 
 ![image](https://github.com/user-attachments/assets/8877b33f-7492-485d-a24d-9f9b9dd2c741)
+STEP 18:
+Then to get the password add things to the payload configuration and click on start attack 
+![image](https://github.com/user-attachments/assets/78c8169f-d25d-4540-bdab-4da000ecd5c7)
+STEP 19:
+Then look for the one that has 200 has its status code then that is the password 
+Then go and login it would work 
+E-mail : admin@juice-sh.op
+Password : Admin123
 
