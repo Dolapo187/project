@@ -18,7 +18,7 @@ Email: admin
 
 password : admin
 
-STEP 4: Click Log in.
+STEP 4:Turn on intercept then Click Log in.
 ![image](https://github.com/user-attachments/assets/43f311bd-22d7-461f-b36b-03b8ad725eb9)
 STEP 5:
 Then turn on Burp Suite and it will intercept the request.
@@ -38,6 +38,6 @@ STEP 8:
 Them go to goggle and search password list github for brute force 
 ![image](https://github.com/user-attachments/assets/06d78d7a-6956-4c9a-93ac-05cfe44e0275)
 STEP 9: 
-Copy the payloads on this webiste and paste it in payload configuration the click in start the attack 
+Copy the payloads on this website and paste it in payload configuration the click in start the attack 
 
 STEP 10:After analyzing the data i found out that brute force was not going to word so i decided i was going to use SQL injection.
