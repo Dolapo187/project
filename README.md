@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dda80bd4-1060-4a78-99ed-8fe0f0495510)# project
+# project
 Using Burpsuite for SQL injection on OWASP JUICE SHOP WEBSITE 
 
 STEP 1:TURN ON YOUR KALI TERMINAL AND OPEN BURP SUITE
